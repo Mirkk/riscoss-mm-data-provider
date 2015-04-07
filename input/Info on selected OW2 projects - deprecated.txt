@@ -1,0 +1,42 @@
+Info on selected OW2 projects
+
+Sat4J: LGPL,
+    efficient open source library of SAT solvers in Java
+    Maven, OW2 SVN (download), Git
+    
+ASM: BSD License,
+     Java bytecode manipulation framework, small, fast
+    NO Maven??? OW2 SVN (download), Git?
+SpagoBI: Mozilla Public License (MPL)
+    Business Intelligence Platform, uses FOSS tools as analytic eng.
+    Maven, OW2 SVN (download), Git
+WebLab: LGPL,
+    service oriented/semantic driven integ. platform for mediamining
+    Maven, OW2 SVN (download), Git
+
+++Sonar:
+
+Sat4J: only PDF available.
+ASM: not available
+SpagoBI: not available
+WebLab: ok, available.
+
+Antepedia licenses analysis:
+Sat4J: csv, html
+ASM:
+SpagoBI:
+WebLab:
+
+Fossology: available for all, ok.
+
+Markmail: I didn't find their mailing lists on markmail.org
+
+Jira (webservice access not tested, possibly password protected(?) ):
+
+Sat4J: https://jira.ow2.org/browse/SAT/
+ASM: ? not found
+SpagoBI: http://www.spagoworld.org/jira/browse/SPAGOBI
+WebLab: https://jira.ow2.org/browse/WEBLAB
+
+Maven, Git: all these projects should be based on them (?)
+mvn dependencies could be for sure provided by everyone or directly by OW2. 

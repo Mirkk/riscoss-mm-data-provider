@@ -1,0 +1,416 @@
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/plugin.properties: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/ISolverService.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/IProblem.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/IOptimizationProblem.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/ILogAble.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/SearchListener.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/RandomAccessModel.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/Lbool.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/IVecInt.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/IVec.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/IteratorInt.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/MultiTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/ModelIterator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/Minimal4InclusionModel.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/Minimal4CardinalityModel.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/ManyCore.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/LexicoDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/LearnedTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/LearnedClauseSizeTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/LBDTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/IVisualizationTool.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/HeuristicsTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/GroupClauseSelectorSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/GateTranslator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/FileBasedVisualizationTool.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/ExtendedDimacsArrayReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/encoding/Commander.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/encoding/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/encoding/Ladder.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/encoding/EncodingStrategyAdapter.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/encoding/Policy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/encoding/Binary.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/encoding/Binomial.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/encoding/Sequential.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/encoding/Product.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/DotSearchTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/DimacsOutputSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/DimacsArrayReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/DecisionTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/DecisionLevelTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/ConflictLevelTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/ConflictDepthTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/CheckMUSSolutionListener.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/Backbone.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/AllMUSes.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/AbstractOutputSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/AbstractMinimalModel.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/AbstractClauseSelectorSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/xplain/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/xplain/Xplain.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/xplain/QuickXplainStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/xplain/DeletionStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/xplain/Explainer.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/xplain/HighLevelXplain.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/xplain/InsertionStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/TextOutputTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/StatisticsSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/SpeedTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/SolverDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/SolutionFoundListener.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/SingleSolutionDetector.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/SearchMinOneListener.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/SearchListenerAdapter.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/SearchEnumeratorListener.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/RemiUtils.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/OptToSatAdapter.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/NegationDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/GroupedCNFReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/EfficientScanner.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/JSONReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/LecteurDimacs.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/DimacsReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/CSPSupportReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/CSPReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/CSPInstanceReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/ParseFormatException.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/Reader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/AIGReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/CSPExtSupportReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/AAGReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/LaunchRemoteControl.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/Launcher.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/Lanceur.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/HotSolverCommandComponent.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/DetailedCommandPanel.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/CommandComponent.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/ChartBasedVisualizationTool.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/VisuPreferencesFrame.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/VisuPreferences.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/TracePainterPlus.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/TracePainterCross.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/TraceComposite.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/PointPainterPlus.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/PointPainterCross.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/MyChartPanel.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/JChartBasedSolverVisualisation.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/GnuplotFunction.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/GnuplotBasedSolverVisualisation.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/VerySimpleCommandPanel.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/StartSolverEnum.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/Solvers.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/SolverController.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/RTSI.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/RestartCommandComponent.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/RemoteControlStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/RemoteControlFrame.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/RandomWalkCommandComponent.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/ProblemType.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/IConstr.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/ContradictionException.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/LanceurPseudo2005.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/SolverFactory.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/reader/OPBReader2005.java: EPL-1.0 ,LGPL-2.1+ ,MIT-style
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/reader/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/reader/OPBReader2012.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/reader/OPBReader2010.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/reader/JSONPBReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/reader/OPBReader2007.java: EPL-1.0 ,LGPL-2.1+ ,MIT-style
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/reader/PBInstanceReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/ObjectiveFunction.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/LPStringSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/LanceurPseudo2007Eclipse.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/LanceurPseudo2007.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/IPBSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/core/PBSolverStats.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/core/PBSolverResCP.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/core/PBSolverWithImpliedClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/core/PBSolverResolution.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/PseudoIteratorDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/PseudoBitsAdderDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/PBSolverDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/orders/VarOrderHeapObjective.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/orders/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/orders/IOrderObjective.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/OptToPBSATAdapter.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/OPBStringSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/UserFriendlyPBStringSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/ClausalConstraintsDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/DependencyHelper.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/LexicoDecoratorPB.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/INegator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/ImplicationRHS.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/ImplicationNamer.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/ImplicationAnd.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/XplainPB.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/StringNegator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/SearchOptimizerListener.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/PBAdapter.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/ManyCorePB.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/DisjunctionRHS.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/core/ObjectiveReducerPBSolverDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/core/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/core/PBDataStructureFactory.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/core/PBSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/core/PBSolverClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/core/PBSolverCP.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/ConstraintRelaxingPseudoOptDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/PBMinDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/AbstractPBDataStructureFactory.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/AtLeastCardConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/AtLeastCardPBConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/CompetMinHTmixedClauseCardConstrDataStructureFactory.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/CompetResolutionMinPBLongMixedWLClauseCardConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/CompetResolutionPBLongMixedHTClauseCardConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/CompetResolutionPBMixedHTClauseCardConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/CompetResolutionPBMixedWLClauseCardConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/ICardConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/IClauseConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/IPBConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/MaxLongWatchPBConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/MaxLongWatchPBCPConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/MaxWatchPBConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/MinCardConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/MinCardPBConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/MinLongWatchPBConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/MinLongWatchPBCPConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/MinWatchPBConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/PBConstr.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/IConflict.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/ConflictMapSwitchToClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/ConflictMapClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/ConflictMap.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/AtLeastPB.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/UnitClausesPB.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/WatchPb.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/UnitClausePB.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/PuebloMinWatchPb.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/Pseudos.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/OriginalHTClausePB.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/OriginalBinaryClausePB.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/MinWatchPbLongCP.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/MinWatchPbLong.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/MinWatchPb.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/MaxWatchPbLongCP.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/MaxWatchPbLong.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/MaxWatchPb.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/WatchPbLongCP.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/MapPb.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/LearntBinaryClausePB.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/IWatchPb.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/InternalMapPBStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/IDataStructurePB.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/PBContainer.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/PBLongMinClauseCardConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/PBMaxClauseAtLeastConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/PBMaxClauseCardConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/PBMaxDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/PBMinClauseCardConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/PuebloMinWatchPBConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/PuebloPBMinClauseCardConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/PuebloPBMinDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/UnitBinaryHTClauseConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/UnitBinaryHTClausePBConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/UnitBinaryWLClauseConstructor.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/opt/MinOneDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/opt/MaxSatDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/opt/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/MUSLauncher.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/MoreThanSAT.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/restarts/NoRestarts.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/restarts/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/restarts/LubyRestarts.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/restarts/Glucose21Restarts.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/restarts/FixedPeriodRestarts.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/restarts/ArminRestarts.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/VarOrderHeap.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/SubsetVarOrder.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/RSATLastLearnedClausesPhaseSelectionStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/UserFixedPhaseSelectionStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/ValuedLit.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/TabuListDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/SolverFactory.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/Messages.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/maxsat/MinCostDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/maxsat/WeightedMaxSatDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/maxsat/UnitWeightedClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/maxsat/reader/MSInstanceReader.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/maxsat/reader/WDimacsReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/maxsat/GenericOptLauncher.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/LightFactory.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/Var.java: EPL-1.0 ,LGPL-2.1+ ,Public-domain
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/SolverFactory.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/SingletonDomain.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/RangeDomain.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/Predicate.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/Evaluable.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/EnumeratedDomain.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/encodings/BinarySupportEncoding.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/encodings/GeneralizedSupportEncoding.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/encodings/DirectEncoding.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/learning/NoLearningNoHeuristics.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/learning/NoLearningButHeuristics.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/learning/MiniSATLearning.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/learning/LimitedLearning.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/learning/ClauseOnlyLearning.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/learning/ActiveLearning.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/learning/AbstractLearning.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/learning/PercentLengthLearning.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/learning/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/MixedDataStructureSingleWL.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/MixedDataStructureDanielWL.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/MixedDataStructureDanielHT.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/Lits.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/LearntWLClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/LearntHTClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/HTClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/Clauses.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/BinaryClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/OriginalWLClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/OriginalBinaryClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/WLClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/UnitClauses.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/UnitClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/ClausalDataStructureWL.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/CardinalityDataStructureYanMax.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/CardinalityDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/card/AtLeast.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/card/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/card/MinWatchCard.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/card/MaxWatchCard.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/AbstractCardinalityDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/RandomWalkDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/RandomLiteralSelectionStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/PureOrder.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/PhaseInLastLearnedClauseSelectionStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/PhaseCachingAutoEraseStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/NegativeLiteralSelectionStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/AbstractPhaserecordingSelectionStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/IPhaseSelectionStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/VoidTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/VarActivityListener.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/Undoable.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/SolverStats.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/Solver.java: EPL-1.0 ,LGPL-2.1+ ,MIT-style
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/SimplificationType.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/SearchParams.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/RestartStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/Propagatable.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/Pair.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/LearningStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/Learner.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/LearnedConstraintsEvaluationType.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/ISimplifier.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/IOrder.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/IntQueue.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/ILits.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/ICDCL.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/Heap.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/DataStructureFactory.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/Counter.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/ConstrActivityListener.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/Constr.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/ConflictTimerAdapter.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/ConflictTimer.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/CircularBuffer.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/ActivityListener.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/ActivityComparator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/overview.html: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/META-INF/MANIFEST.MF: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/about.html: EPL-1.0 ,LGPL-2.1+ ,MIT-style
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/build.properties: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/InstanceReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/reader/XMLCSPReader.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/PhaseCommandComponent.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/CleanCommandComponent.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/SolverVisualisation.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/visu/GnuplotDataFile.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/sat/SimplifierCommandComponent.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/ISolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/IGroupSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/specs/TimeoutException.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/messages.properties: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/maxsat/SolverFactory.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/AbstractLauncher.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/ILauncherMode.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/Constant.java: EPL-1.0 ,LGPL-2.1+ ,Public-domain
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/predefinedfunctions.js: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/Encoding.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/Domain.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/CSPLauncher.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/constraints/Supports.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/constraints/Relation.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/constraints/Nogoods.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/constraints/GentSupports.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/constraints/AllDiffCard.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/constraints/BessiereSupports.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/constraints/AllDiff.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/constraints/WalshSupports.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/csp/Clausifiable.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/ExitCode.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/AbstractOptimizationLauncher.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/reader/OPBReader2006.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/reader/OPBEclipseReader2007.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/IPBSolverService.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/core/IPBCDCLSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/core/PBSolverCautious.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/PseudoOptDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/AbstractPBClauseCardConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/CompetResolutionPBLongMixedWLClauseCardConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/ConflictMapCardinality.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/WatchPbLong.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/MinWatchCardPB.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/pb/LearntHTClausePB.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/PBLongMaxClauseCardConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/constraints/PuebloPBMinClauseAtLeastConstrDataStructure.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/orders/RandomWalkDecoratorObjective.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/ConflictTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/WeightedObject.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/pb/tools/LexicoHelper.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/core/ASolverFactory.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/core/VecInt.java: EPL-1.0 ,LGPL-2.1+ ,MIT-style
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/core/Vec.java: EPL-1.0 ,LGPL-2.1+ ,MIT-style
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/core/ReadOnlyVecInt.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/core/ReadOnlyVec.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/core/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/core/LiteralsUtils.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/core/DefaultComparator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/core/ConstrGroup.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/ModelIteratorToSATAdapter.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/LearnedClausesSizeTracing.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/FullClauseSelectorSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/encoding/EncodingStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/DimacsStringSolver.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/ClausalCardinalitiesDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/xplain/QuickXplain2001Strategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/xplain/MinimizationStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/SolutionCounter.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/BasicLauncher.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/tools/OutcomeListener.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/opt/AbstractSelectorVariablesDecorator.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/learning/FixedLengthLearning.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/LearntBinaryClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/cnf/OriginalHTClause.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/CardinalityDataStructureYanMin.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/constraints/AbstractDataStructureFactory.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/restarts/MiniSATRestarts.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/RSATPhaseSelectionStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/orders/PositiveLiteralSelectionStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/UnitPropagationListener.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/package-info.java: No_license_found
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/LearnedConstraintsDeletionStrategy.java: EPL-1.0 ,LGPL-2.1+
+SAT4J 2.3.3/SAT4J 2.3/Sat4J-2.3.3/org/sat4j/minisat/core/ConflictTimerContainer.java: EPL-1.0 ,LGPL-2.1+
